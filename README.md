@@ -55,8 +55,8 @@ This repository contains code for a flood mapping methodology that combines Sent
 
 ## Author
 
-\[Your Name]
+\[Pawan Thapa]
 
 ## License
 
-\[Your License]
+\[MIT]
